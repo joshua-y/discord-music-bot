@@ -26,4 +26,4 @@ if __name__ == "__main__":
             print("Failed to load extension {}\n{}".format(extension, exc))
 
 
-bot.run("NDYxNzQ5NTIwMzA5NjgyMTg5.DpR5wQ.urPt8xA5WXgME2Kl80K_6pDECVM")
+bot.run("REDACTED")
